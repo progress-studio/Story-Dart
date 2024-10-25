@@ -1,7 +1,8 @@
 name: story_dart
 description: "XML-based Story Format Processor"
 version: 0.0.1
-homepage:
+homepage: https://story.progress.kr/
+repository: https://github.com/progress-studio/Story-Dart
 
 environment:
   sdk: ^3.5.3
